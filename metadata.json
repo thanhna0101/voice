@@ -1,0 +1,5 @@
+{
+  "name": "VietVoice GenAI",
+  "description": "A sophisticated Text-to-Speech application transforming text into lifelike speech with regional Vietnamese accents (North, Central, South) and selectable gender voices using Gemini 2.5 Flash.",
+  "requestFramePermissions": []
+}
